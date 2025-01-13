@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+pragma solidity ^0.8.18;
 
 import {MyGovernor} from "../src/MyGovernor.sol";
 import {GovToken} from "../src/GovToken.sol";
